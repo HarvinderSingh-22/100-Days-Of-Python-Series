@@ -1,6 +1,6 @@
 # PYHTON SERIES : FROM ZERO TO ADVANCE 
 
-# PROHRAMMING LANGUAGE : is a way to tell computers what to do?--> means computers ko btana chahte h hum, ki ky krna hai--
+# PROGRAMMING LANGUAGE : is a way to tell computers what to do?--> means computers ko btana chahte h hum, ki ky krna hai--
 #                        wo cheez hum programming languages ke through krte h
 
 
@@ -8,7 +8,8 @@
 # => PYTHON: is a popular programming lang, that can be used on a server/backened ,to create applications
 #             like web application, games etc. and created by Guido van Rossum 1989 and release in 1991.
 #       |---> it's also cld general-purpose language, bcoz its used everywhere.
-#       |---> its dynamically typed prog. lang refers to 
+#       |---> its dynamically typed prog. lang ---Understand this in variables concept.
+
 # => FEATURES :
 #   1. Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).---INDEPENDENT WORK ON ANY PLATFORM
 #   2. Python has a simple syntax similar to the English language. & code readibility
@@ -22,7 +23,7 @@
 #                     |---->    Python can connect to database systems. It can also read and modify files.
 
 # => PYTHON VERSIONS:  There are two major Python of versions &  Both are quite different i.e.: --->
-#                             Python 2 (quite popular)
+#                             Python 2 (quite popular--km use krte h)
 #                             Python 3 (most recently used +  major version)
 
 # => INSTALLING PYTHON & DIFFERENT TYPES OF IDES:
